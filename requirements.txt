@@ -1,0 +1,7 @@
+# tensorflow sudah ada di base image, jadi kita hapus dari sini
+opencv-python
+fastapi
+uvicorn[standard]
+python-multipart
+numpy
+Pillow
